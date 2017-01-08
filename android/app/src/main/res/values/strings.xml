@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">myConsents</string>
+  <string name="filter_title_request_consents">Request Consents Intent</string>
+</resources>
